@@ -8,19 +8,19 @@
 
 ### How I expected the challenge to go. 
 
-- I felt the challenge would be straightforward, it felt the variuos components we had been shown in isolation could be brought together in this challenge
+- I felt the challenge would be straightforward, it felt the various components we had been shown in isolation could be brought together in this challenge especially as we had access to the relevant demos.
 
 ### What went well? 
 
-- 
+- Creating the Jenkinsfile and the scripts was straightforward as was getting the app.py to function manually in the terminal. I was able to get tne message "Hello friend. I'm currently running in $None." at port 5001 in the browser. 
 
 ### What didn't go as planned? 
 
-- 
+- Jenkins was set to automated builds which failed each time. I was not able to rectify this within the deadline even though manually getting it running worked flawlessly
 
-### Possible improvements for future challenges. 
+### Possible improvements for future challenges. .
 
--
+- In future it may be helpful to get help to make sure Jenkins had been confiigured correctly for automated actions
     
       
       
@@ -38,36 +38,4 @@
       
       
 
-NBS Challenge 3
 
-App
-
-Environment
-
-To use the app you need to make sure the requirements are installed.
-It is best to do this in a virtual environment OR use a Docker container
-
-Venv
-
-```bash
-sudo apt update && sudo apt install python3-pip python3-venv -y
-python3 -m venv venv
-. ./venv/bin/activate
-```
-
-Testing
-
-Then you can run the tests. This can only be done if the dependencies in requirements.txt are installed.
-
-```bash
-# In the root of the project
-pytest
-```
-
-Running
-
-Or you can run the app.
-
-```
-python3 app.py
-```
