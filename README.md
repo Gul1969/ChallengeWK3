@@ -23,41 +23,16 @@
 In future I would test the VM first thing in the morning, on this occasion I watched the demo's in the morning to write down the correct syntax for the tasks. By the time I was ready to work in the VM, the scheduled meetings were looming and this meant reduced time on the challenge.
 
 
+NBS Challenge 3
 
+App
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# NBS Challenge 3
-
-## App
-
-### Environment
+Environment
 
 To use the app you need to make sure the requirements are installed.
-It is best to do this in a virtual environment OR use a Docker container.
+It is best to do this in a virtual environment OR use a Docker container
 
-#### Venv
+Venv
 
 ```bash
 sudo apt update && sudo apt install python3-pip python3-venv -y
@@ -65,7 +40,7 @@ python3 -m venv venv
 . ./venv/bin/activate
 ```
 
-### Testing
+Testing
 
 Then you can run the tests. This can only be done if the dependencies in requirements.txt are installed.
 
@@ -74,7 +49,7 @@ Then you can run the tests. This can only be done if the dependencies in require
 pytest
 ```
 
-### Running
+Running
 
 Or you can run the app.
 
