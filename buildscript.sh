@@ -1,4 +1,4 @@
 #! /bin/bash
 
-sudo docker-compose build
-sudo docker-compose push
+sudo docker build -t tester .
+
