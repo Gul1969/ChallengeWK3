@@ -8,7 +8,7 @@
 
 ### How I expected the challenge to go. 
 
-- 
+- I felt the challenge would be straightforward, it felt the variuos components we had been shown in isolation could be brought together in this challenge
 
 ### What went well? 
 
