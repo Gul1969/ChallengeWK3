@@ -1,4 +1,4 @@
-##ChallengeWK3
+## ChallengeWK3
 
 ## Be competent automating Jenkins 
 
@@ -21,6 +21,20 @@
 ### Possible improvements for future challenges. 
 
 In future I would test the VM first thing in the morning, on this occasion I watched the demo's in the morning to write down the correct syntax for the tasks. By the time I was ready to work in the VM, the scheduled meetings were looming and this meant reduced time on the challenge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
