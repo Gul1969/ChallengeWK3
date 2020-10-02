@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('Build and test Images'){
 			steps {
-				sh "./scripts/build.sh"
+				sh "./buildscript.sh"
 			}
 		}
 		stage('Run Containers'){
